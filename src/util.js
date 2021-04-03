@@ -1,4 +1,5 @@
 import {NAMED_COLORS} from "./named_colors.js"
+import * as uint32 from "./uint32"
 
 /**
  * Clamping is the process of limiting a position to an area
